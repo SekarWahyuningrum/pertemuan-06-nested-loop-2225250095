@@ -1,1 +1,0 @@
-# pertemuan-06-nested-loop-2225250095
