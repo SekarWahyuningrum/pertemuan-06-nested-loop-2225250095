@@ -1,7 +1,9 @@
 # Pertemuan 06 Nested Loop Python
 
 Nama: Sekar Wahyuningrum
+
 NIM: 2225250095
+
 Kelas: 3E
 
 ## Tujuan
